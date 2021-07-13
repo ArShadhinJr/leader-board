@@ -140,6 +140,7 @@ hr {
 .courses .course {
   border-radius: 15px ;
   box-shadow: 1px 1px 5px rgb(165, 162, 162);
+
 }
 .course-banner {
 
@@ -149,6 +150,9 @@ hr {
 }
 .course-title h3 {
   font-size: 20px ;
+}
+.course-details {
+  padding: 0 0 20px 15px ;
 }
 .course-author p {
   color: #ED6B4F;
